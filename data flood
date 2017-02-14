@@ -1,0 +1,30 @@
+1. Following are the source of data flood
+ 
+     a.The new york stock exchange generates about 4-5TB of data everyday.
+ 
+     b. Facebook hosts more than 240 billion photos growing at 7PB of data everyday.
+ 
+     c.The geneology sites stores 10PB of data.
+ 
+      d.The internet archive stores around 18.5PB of data.
+      
+      
+      
+2.Data-
+      Data is a set of instructions which can be in any form like images,photos,score card, mobile bills,etc.
+      It is an important part as it provides better decision by analysing the data but its capacity is limited.
+ 
+Big Data-
+Big data is a high volume ,high velocity and high variety information asset that demands cost effective,innovative forms of
+ information processing for enhanced insight and decision making. 
+ 
+ 
+ 
+ 3.Following are the reason why hadoop is becoming the solution for data explosion-
+        a. Hadoop being the open source,java based programming frame work thus supports huge data in distributed form.
+ 
+        b. Provides reliable,scalable platform for storage and analyes.
+ 
+        c. It is based on GFS(google file system).
+ 
+        d. It works in two parts i.e. HDFS and Map Reduce.
